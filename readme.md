@@ -6,6 +6,8 @@ The bot gets started with minimum variables and others can be set as and when ne
 
 ## For any help join this:- [KangersHub](https://t.me/KangersHubChat)
 
+[Herkou](https://heroku.com/deploy)
+
 ## Whats new
 - MegaDL added
 - Overall download and upload progress.
